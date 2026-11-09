@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Noorani Qaida beginner Arabic letters learning book">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf0"/><stop offset=".55" stop-color="#f1ead9"/><stop offset="1" stop-color="#dce9df"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e4939"/><stop offset="1" stop-color="#246d56"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4d58a"/><stop offset="1" stop-color="#b9822d"/></linearGradient>
+ <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fffef9"/><stop offset="1" stop-color="#efe5cf"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#153c30" flood-opacity=".18"/></filter>
+ <pattern id="geo" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M27 2L52 27 27 52 2 27Z M27 12L42 27 27 42 12 27Z" fill="none" stroke="#b98a3d" stroke-width="1.3" opacity=".25"/></pattern>
+</defs>
+<rect width="800" height="560" rx="34" fill="url(#bg)"/>
+<rect x="18" y="18" width="764" height="524" rx="26" fill="none" stroke="#c79a4c" stroke-width="3"/>
+<rect x="28" y="28" width="744" height="504" rx="22" fill="url(#geo)" opacity=".45"/>
+<circle cx="690" cy="100" r="80" fill="#d4b36e" opacity=".14"/>
+<circle cx="112" cy="462" r="95" fill="#1c614a" opacity=".08"/>
+
+<g filter="url(#shadow)">
+ <path d="M190 142Q315 102 400 150Q485 102 610 142V408Q490 373 400 422Q310 373 190 408Z" fill="url(#paper)" stroke="#b88b40" stroke-width="7"/>
+ <path d="M400 150V422" stroke="#b88b40" stroke-width="5"/>
+ <path d="M218 171Q307 145 375 177M218 204Q307 178 375 210M218 237Q307 211 375 243M425 177Q493 145 582 171M425 210Q493 178 582 204M425 243Q493 211 582 237" fill="none" stroke="#b7a98b" stroke-width="5" stroke-linecap="round"/>
+ <rect x="254" y="268" width="292" height="92" rx="16" fill="url(#green)" stroke="#c69a4c" stroke-width="5"/>
+ <text x="400" y="326" text-anchor="middle" font-size="37" font-family="serif" fill="#fff8e8">NOORANI QAIDA</text>
+</g>
+<g fill="#14513e" font-family="serif" font-size="62" font-weight="bold">
+ <text x="170" y="120">ا</text><text x="270" y="112">ب</text><text x="370" y="110">ت</text><text x="470" y="112">ث</text><text x="570" y="120">ج</text>
+</g>
+<g fill="#c18f3d"><circle cx="173" cy="139" r="7"/><circle cx="273" cy="132" r="7"/><circle cx="373" cy="130" r="7"/><circle cx="473" cy="132" r="7"/></g>
+
+<path d="M350 514h100" stroke="#c49a4a" stroke-width="4" stroke-linecap="round"/>
+<path d="M390 514l10-10 10 10-10 10Z" fill="#c49a4a"/>
+</svg>

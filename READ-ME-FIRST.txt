@@ -1,22 +1,3 @@
-MESSAGE QURAN CENTER — MULTI-PAGE WEBSITE
+MESSAGE QURAN CENTER — refined multilingual website
 
-Files:
-- index.html       (Home)
-- courses.html     (Courses)
-- about.html       (About + How It Works)
-- fees.html        (Fees)
-- faqs.html        (FAQs)
-- contact.html     (Contact)
-
-HOW TO UPDATE YOUR GITHUB WEBSITE:
-1. Open your GitHub repository: message-quran-center
-2. Click Add file > Upload files.
-3. Upload ALL six .html files from this folder (not just index.html).
-4. If GitHub asks about replacing index.html, confirm the replacement.
-5. Click Commit changes.
-6. Wait a few minutes, then open:
-   https://assialwi4747-dot.github.io/message-quran-center/
-
-IMPORTANT:
-Keep all six HTML files together in the repository root. Do not put them in a subfolder.
-The website uses the same visual design, logo styling, and contact details from your existing approved website.
+Open index.html. English, Urdu and Arabic pages are in the root, /ur and /ar folders. Keep the complete folder structure when publishing. The contact forms open a prefilled WhatsApp message to +92 337 6795876; they do not submit to a server. The _original_backup folder is for safekeeping and should not be uploaded to GitHub Pages.

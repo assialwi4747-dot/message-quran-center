@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Quran translation Arabic and English study book">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf0"/><stop offset=".55" stop-color="#f1ead9"/><stop offset="1" stop-color="#dce9df"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e4939"/><stop offset="1" stop-color="#246d56"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4d58a"/><stop offset="1" stop-color="#b9822d"/></linearGradient>
+ <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fffef9"/><stop offset="1" stop-color="#efe5cf"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#153c30" flood-opacity=".18"/></filter>
+ <pattern id="geo" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M27 2L52 27 27 52 2 27Z M27 12L42 27 27 42 12 27Z" fill="none" stroke="#b98a3d" stroke-width="1.3" opacity=".25"/></pattern>
+</defs>
+<rect width="800" height="560" rx="34" fill="url(#bg)"/>
+<rect x="18" y="18" width="764" height="524" rx="26" fill="none" stroke="#c79a4c" stroke-width="3"/>
+<rect x="28" y="28" width="744" height="504" rx="22" fill="url(#geo)" opacity=".45"/>
+<circle cx="690" cy="100" r="80" fill="#d4b36e" opacity=".14"/>
+<circle cx="112" cy="462" r="95" fill="#1c614a" opacity=".08"/>
+
+<g filter="url(#shadow)">
+ <path d="M155 130Q280 95 400 145Q520 95 645 130V414Q520 378 400 430Q280 378 155 414Z" fill="url(#paper)" stroke="#b98b43" stroke-width="8"/>
+ <path d="M400 145V430" stroke="#b98b43" stroke-width="5"/>
+ <text x="270" y="190" font-size="38" fill="#15513f" text-anchor="middle" font-family="serif">QURAN</text>
+ <text x="530" y="190" font-size="30" fill="#15513f" text-anchor="middle" font-family="serif">Translation</text>
+ <g stroke="#a89b7f" stroke-width="5" stroke-linecap="round">
+  <path d="M190 225h155M190 254h155M190 283h155M190 312h155M190 341h155"/>
+  <path d="M455 225h155M455 254h155M455 283h155M455 312h155M455 341h155"/>
+ </g>
+ <path d="M180 370h440" stroke="#c49a4a" stroke-width="3"/>
+</g>
+<circle cx="400" cy="105" r="36" fill="url(#gold)" stroke="#fff4d8" stroke-width="6"/>
+<path d="M385 105h30M400 90v30" stroke="#fffaf0" stroke-width="5" stroke-linecap="round"/>
+
+<path d="M350 514h100" stroke="#c49a4a" stroke-width="4" stroke-linecap="round"/>
+<path d="M390 514l10-10 10 10-10 10Z" fill="#c49a4a"/>
+</svg>

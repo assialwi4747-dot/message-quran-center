@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Islamic studies mosque crescent lantern and prayer mat">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf0"/><stop offset=".55" stop-color="#f1ead9"/><stop offset="1" stop-color="#dce9df"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e4939"/><stop offset="1" stop-color="#246d56"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4d58a"/><stop offset="1" stop-color="#b9822d"/></linearGradient>
+ <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fffef9"/><stop offset="1" stop-color="#efe5cf"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#153c30" flood-opacity=".18"/></filter>
+ <pattern id="geo" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M27 2L52 27 27 52 2 27Z M27 12L42 27 27 42 12 27Z" fill="none" stroke="#b98a3d" stroke-width="1.3" opacity=".25"/></pattern>
+</defs>
+<rect width="800" height="560" rx="34" fill="url(#bg)"/>
+<rect x="18" y="18" width="764" height="524" rx="26" fill="none" stroke="#c79a4c" stroke-width="3"/>
+<rect x="28" y="28" width="744" height="504" rx="22" fill="url(#geo)" opacity=".45"/>
+<circle cx="690" cy="100" r="80" fill="#d4b36e" opacity=".14"/>
+<circle cx="112" cy="462" r="95" fill="#1c614a" opacity=".08"/>
+
+<g filter="url(#shadow)">
+ <path d="M250 300V220Q250 150 400 105Q550 150 550 220V300Z" fill="url(#green)" stroke="#c49a4a" stroke-width="8"/>
+ <path d="M285 300V222Q285 170 400 132Q515 170 515 222V300" fill="none" stroke="#e8ca83" stroke-width="5"/>
+ <rect x="210" y="300" width="380" height="95" rx="12" fill="#174b3c" stroke="#c49a4a" stroke-width="8"/>
+ <path d="M370 395V315Q400 270 430 315V395" fill="#fff5dc" stroke="#c49a4a" stroke-width="6"/>
+ <path d="M175 395h450" stroke="#8b622e" stroke-width="16" stroke-linecap="round"/>
+</g>
+<path d="M640 105a48 48 0 1 1-58-58a40 40 0 1 0 58 58Z" fill="#d3a64f"/>
+<path d="M650 195v70M625 220h50" stroke="#a8762d" stroke-width="5"/>
+<path d="M625 265l-20 25h90l-20-25Z" fill="url(#gold)" stroke="#a8762d" stroke-width="4"/>
+<path d="M640 290v32" stroke="#a8762d" stroke-width="4"/>
+<path d="M145 440h510" stroke="#c49a4a" stroke-width="5" stroke-linecap="round"/>
+
+<path d="M350 514h100" stroke="#c49a4a" stroke-width="4" stroke-linecap="round"/>
+<path d="M390 514l10-10 10 10-10 10Z" fill="#c49a4a"/>
+</svg>

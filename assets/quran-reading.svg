@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Quran reading open Quran on wooden rehal">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf0"/><stop offset=".55" stop-color="#f1ead9"/><stop offset="1" stop-color="#dce9df"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e4939"/><stop offset="1" stop-color="#246d56"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4d58a"/><stop offset="1" stop-color="#b9822d"/></linearGradient>
+ <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fffef9"/><stop offset="1" stop-color="#efe5cf"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#153c30" flood-opacity=".18"/></filter>
+ <pattern id="geo" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M27 2L52 27 27 52 2 27Z M27 12L42 27 27 42 12 27Z" fill="none" stroke="#b98a3d" stroke-width="1.3" opacity=".25"/></pattern>
+</defs>
+<rect width="800" height="560" rx="34" fill="url(#bg)"/>
+<rect x="18" y="18" width="764" height="524" rx="26" fill="none" stroke="#c79a4c" stroke-width="3"/>
+<rect x="28" y="28" width="744" height="504" rx="22" fill="url(#geo)" opacity=".45"/>
+<circle cx="690" cy="100" r="80" fill="#d4b36e" opacity=".14"/>
+<circle cx="112" cy="462" r="95" fill="#1c614a" opacity=".08"/>
+
+<g filter="url(#shadow)">
+ <path d="M130 220Q270 145 400 232Q530 145 670 220V402Q530 340 400 420Q270 340 130 402Z" fill="url(#paper)" stroke="#b98b43" stroke-width="8"/>
+ <path d="M400 232V420" stroke="#b98b43" stroke-width="6"/>
+ <g stroke="#9c8b69" stroke-width="5" stroke-linecap="round" opacity=".75">
+  <path d="M170 254q100-38 190 4M170 286q100-38 190 4M170 318q100-38 190 4M170 350q100-38 190 4"/>
+  <path d="M440 258q90-42 190-4M440 290q90-42 190-4M440 322q90-42 190-4M440 354q90-42 190-4"/>
+ </g>
+ <path d="M260 418L400 492 540 418M400 420V492" fill="none" stroke="#8a5b2a" stroke-width="22" stroke-linejoin="round"/>
+ <path d="M300 438L400 500 500 438" fill="none" stroke="#c28d3b" stroke-width="8"/>
+</g>
+<path d="M355 182Q400 135 445 182" fill="none" stroke="#c49a4a" stroke-width="5"/>
+<circle cx="400" cy="172" r="9" fill="#c49a4a"/>
+
+<path d="M350 514h100" stroke="#c49a4a" stroke-width="4" stroke-linecap="round"/>
+<path d="M390 514l10-10 10 10-10 10Z" fill="#c49a4a"/>
+</svg>

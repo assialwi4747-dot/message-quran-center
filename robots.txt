@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://assialwi4747-dot.github.io/message-quran-center/sitemap.xml
