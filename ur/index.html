@@ -331,7 +331,12 @@ html[dir="rtl"] .form-group{text-align:right}
   }
 }
 <style id="mqc-mobile-side-drawer">
-@media (max-width:700px) {
+@media (min-width: 701px) {
+  .nav-close {
+    display: none !important;
+  }
+}
+  @media (max-width:700px) {
   .nav-backdrop { display:none; position:fixed; inset:0; z-index:1001; background:rgba(10,24,20,.48); }
   .nav-backdrop.active { display:block; }
   .nav-links, .nav-links.active {
