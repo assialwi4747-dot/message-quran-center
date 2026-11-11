@@ -358,6 +358,11 @@ html[dir="rtl"] .form-group{text-align:right}
   .nav-close { display:flex; align-self:flex-end; align-items:center; justify-content:center; width:42px; height:42px; margin:0 0 10px; border:1px solid var(--line); border-radius:10px; background:#f7f8f5; color:var(--green); font-size:1.25rem; cursor:pointer; }
   body.nav-menu-open { overflow:hidden; }
 }
+    @media (min-width: 701px) {
+  .nav-close {
+    display: none !important;
+  }
+}
 @media (prefers-reduced-motion:reduce) { .nav-links, .nav-links.active { transition:none; } }
 </style>
 
